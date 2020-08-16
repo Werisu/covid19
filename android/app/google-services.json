@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234582753678",
+    "firebase_url": "https://corona-v-brasil.firebaseio.com",
+    "project_id": "corona-v-brasil",
+    "storage_bucket": "corona-v-brasil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234582753678:android:1cbbf94360ed3902eb64df",
+        "android_client_info": {
+          "package_name": "com.wellysson.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234582753678-o23jqcb5amdvsebm0o3edfkn57uf8muo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellysson.covid19",
+            "certificate_hash": "eae0746967efb82f1bf9dd8da6d0acd4910bc650"
+          }
+        },
+        {
+          "client_id": "234582753678-jg7htkf1nvmvqj3mjeddikbanu740g0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiW6Et52hiCGUqRMMo2l3NW9CNiHd6Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234582753678-jg7htkf1nvmvqj3mjeddikbanu740g0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
